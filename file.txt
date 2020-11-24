@@ -1,4 +1,8 @@
 Add first line.
+<<<<<<< HEAD
 Also add between 1st and 2nd line.
+=======
+Add between 1st and 2nd line.
+>>>>>>> f742f4a64222f55cf6d00310467e7ad31558a0e3
 Add second line.
 Add third line.
